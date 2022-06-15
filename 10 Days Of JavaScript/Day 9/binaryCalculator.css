@@ -1,10 +1,10 @@
 body {
-  width: 33vw;
+  width: 35vw;
 }
 #res {
   border: solid;
   background-color: lightgray;
-  height: 48px;
+  height: 50px;
   font-size: 20px;
 }
 .bin {
@@ -13,7 +13,7 @@ body {
 }
 .sysBtn {
   background-color: darkgreen;
-  color: white;
+  color: #fff;
 }
 .operators {
   background-color: black;
@@ -21,7 +21,7 @@ body {
 }
 button {
   width: 25%;
-  height: 36px;
+  height: 35px;
   font-size: 18px;
   float: left;
   margin: 0px;
